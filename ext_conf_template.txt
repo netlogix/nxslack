@@ -1,0 +1,6 @@
+# cat=Slack/; type=text; label=Endpoint: Configure the endpoint where to send the log message
+token = 
+# cat=Slack/; type=text; label=Channel: Configure the channel where to send the log message
+channel = 
+# cat=Slack/; type=text; label=Title: Configure the title where to send the log message
+message_title =
